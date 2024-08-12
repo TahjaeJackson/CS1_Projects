@@ -1,0 +1,19 @@
+How many items in the list? 20
+The list: [212, 406, 420, 462, 467, 541, 549, 579, 629, 787, 793, 809, 825, 850, 869, 883, 907, 942, 955, 964]
+What value to search for? ('?' to see the list, 'q' to quit): 406
+406 found at index 1
+What value to search for? ('?' to see the list, 'q' to quit): 987
+987 not found
+What value to search for? ('?' to see the list, 'q' to quit): 955
+955 found at index 18
+What value to search for? ('?' to see the list, 'q' to quit): 400
+400 not found
+What value to search for? ('?' to see the list, 'q' to quit): 629
+629 found at index 8
+What value to search for? ('?' to see the list, 'q' to quit): 9
+9 not found
+What value to search for? ('?' to see the list, 'q' to quit): 99
+99 not found
+What value to search for? ('?' to see the list, 'q' to quit): 467
+467 found at index 4
+What value to search for? ('?' to see the list, 'q' to quit): q

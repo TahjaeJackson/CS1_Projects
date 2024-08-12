@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[33],{"./src/lumin-components/CopyTextHandler/index.js":function(e,n,a){"use strict";a.r(n);var t=a("./node_modules/react/index.js"),d=a.n(t),r=function(){return d.a.createElement("div",{className:"CopyTextHandler"},d.a.createElement("textarea",{id:"copy-textarea",tabIndex:-1,"aria-hidden":!0}))};n.default=r}}]);

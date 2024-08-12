@@ -1,0 +1,44 @@
+START| ASK, RUN| You walking through the hall on the last day of school and you see your crush walking towards you. Do you a) Approach them and ask them out b) Quickly run away and find a hiding spot
+
+ASK| NATURE_WALK, DINNER, MOVIE| You and your crush engage in such an amazing conversation and you start to make plans to meet up the later same day. Do you a) Go on a nature walk b) Go and have dinner at the most expensive restaurant in town c) Watch the new horror movie coming out
+
+RUN|| You try to run away but slips on a banana peel, hit into an open locker, while your crush laughs. You end up with a mild concussion and all hope is lost.
+
+NATURE_WALK| GO_TOWARDS_IT, ESCAPE| You and your crush spend the most romantic evening under the stars and the moonlit sky. It is a full moon tonight. Suddenly you hear shuffling in the leaves that is quickly followed by a scream. Do you a) Go and help the person b) Get out of there
+
+DINNER| CONTINUE, MAKE_AN_EXCUSE| You and your crush are having a great time at the restaurant. When it comes for the time to order, they order raw steak. Do you a) Stay b) make an excuse to leave
+
+MOVIE| STAY, ESCAPE_RIGHT_NOW| You are watching the movie. You are cosied up together. But everytime someone dies in the horror movie, your crush laughs and you catch a glimpse of how sharp their teeth are. Do you a) stay for the rest of the movie b)get out of there
+
+GO_TOWARDS_IT| HELP, SEARCH| Luckily, you find the wounded person and proceed to help. While helping, your crush disappears. Do you a) continue to help b) Search for your crush
+
+ESCAPE|| You run away with your crush and you get to an open area but you can see no around. You turn around to make a phone call and you see your crush's identical twin approaching drenched in blood. Both siblings start to slowly approach you until they simultaneously latch on to you. There ends your first date and now your last.
+
+CONTINUE| NATURE_WALK, GO_HOME| Ignoring the raw meat, you and your crush have a great time and they suggest going for a walk under the stars after dinner. Do you a) Go for the walk b) Go home
+
+MAKE_AN_EXCUSE|| You hastily leave the restaurant and never talk to your crush again.
+
+STAY| NATURE_WALK, GO_HOME| You ignore the obvious fangs because people can be different and you remember reading somewhere that it is normal to have fangs because of evolution. After the movie, your crush suggests going for a walk under the stars after dinner. Do you a) Go for the walk b) Go home
+
+ESCAPE_RIGHT_NOW|| You rush out of theatre completely scared. You are so frazzled that you ran the entire 5 miles home. You never talked to crush afterwards.
+
+GO_HOME|| You call your parents to pick you up. You are on a high on how great the night was. You will forever cherish this first date experience.
+
+HELP|  RUN_AWAY, CONTINUE_HELPING, FIGHT| While you are helping the wounded, you hear them whisper, "that's the monster" when your crush suddenly appears. Do you a) run b)continue helping c) try and fight your crush
+
+SEARCH|| While searching for your crush, you see their identical twin with their face covered in blood. You hear the leaves shuffle to turn around and see your crush creepily walking up towards you. They both run and attack you, leaving you with a date never to forget.
+
+CONTINUE_HELPING| TALK, RUN_AWAY| You are scared beyond understanding but you still continue to help. That is when you see the your crush and their identical twin standing side to side with an evil look in their eyes. Do you a) Try and talk to them b) Run away
+
+RUN_AWAY|| You try to run but you keep tripping over yourself. The twins soon catch up to you and soon put an end to your first date.
+
+FIGHT|| Did you really choose this option?? You cannot fight to save your life. Of course they win!!! You lost the fight and no one heard from you ever again.
+
+TALK|| I know that you did not think that you could talk your way out of this. Of course they attacked you without even hearing you out. So much for a first date huh?
+
+
+
+
+
+
+

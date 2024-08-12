@@ -1,0 +1,28 @@
+#BFS Algorithm
+#Input: vertex_d, start, goal
+#Output: Path between start and goal
+
+#Information stored:
+#frontier is queue
+#back pointer dictionary key is vertex and value is vertex from which it was reached
+
+1. frontier = empty queue
+2. bkp_d = {}
+
+3. Add start to frontier
+4. Add start->None to bkp_d
+
+5. while len(frontier) > 0:
+6.      v = get first vertex in frontier (deQ from forntier)
+7.      for every unvisited neighbor u of vertex v: #To check if visited use bkp_d
+8.             add u to frontier
+9.             add u->v to bkp_d
+10.     if goal in bkp_d:
+11.         break
+
+12. path = []
+13. x = goal
+14. while x != None:
+15.    add x to path
+16.    x will become backpointer of old_x (if x->y in bkp_d x = y, x = bkp_d[x])
+17. return path
